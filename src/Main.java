@@ -43,7 +43,7 @@ public class Main {
         System.out.println();
     }
     private static void homeWork3(){
-        System.out.println("Задача 3");
+        System.out.println(" Задача 3");
         int array[] = generateRandomArray();
         int sum = 0;
        double sumWastes = 0;
